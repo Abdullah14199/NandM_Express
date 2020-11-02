@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1091829184508",
+    "firebase_url": "https://m-s-express.firebaseio.com",
+    "project_id": "m-s-express",
+    "storage_bucket": "m-s-express.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091829184508:android:1cdeb96290f438072ba479",
+        "android_client_info": {
+          "package_name": "com.example.msexpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091829184508-qrm5ttofaocu7csqelkac0f2fqs9p2j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB5zs8lWIrwM05j3e4fSVg7ywhQSVGvEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091829184508-qrm5ttofaocu7csqelkac0f2fqs9p2j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
